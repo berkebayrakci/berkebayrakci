@@ -14,4 +14,4 @@ I Ever since I was a little kid, computer engineering has been my passionate.
 
 
 ---
-![](https://komarev.com/ghpvc/?username=Bayrakkci)
+![](https://komarev.com/ghpvc/?username=Bayrakkci&color=green)
